@@ -1,10 +1,10 @@
-<h1 align="center"> 👋 Hi , This is ShinyStar, a Senior Blockchain Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , This is ShinyStar, a Senior Blockchain Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=secretcryptoexpert.secretcryptoexpert" />
-<img align="right" src="https://img.shields.io/github/followers/secretcryptoexpert?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shinystar715.shinystar715" />
+<img align="right" src="https://img.shields.io/github/followers/shinystar715?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=secretcryptoexpert&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretcryptoexpert&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=shinystar715&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinystar715&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 
 <br>
